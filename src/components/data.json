@@ -1,0 +1,45 @@
+{
+    "usuario": "João da Silva",
+    "id": 123,
+    "corporacao": "Cepa Academy / eBTW1 + (m06) Toda decisão é importante.",
+    "assessment": "Cepa Academy / eBTW1 + (m06) Toda decisão é importante.",
+    "data":"01 de Abril de 2024",
+    "perguntas": [
+      {
+        "pergunta": "Qual é a capital do Brasil?",
+        "opcoes_resposta": ["São Paulo", "Rio de Janeiro", "Brasília", "Salvador"],
+        "resposta_correta": "Brasília",
+        "resposta_usuario": "Brasília",
+        "acertou": true
+      },
+      {
+        "pergunta": "Quem escreveu 'Dom Quixote'?",
+        "opcoes_resposta": ["Miguel de Cervantes", "William Shakespeare", "Friedrich Nietzsche", "Charles Dickens"],
+        "resposta_correta": "Miguel de Cervantes",
+        "resposta_usuario": "Miguel de Cervantes",
+        "acertou": true
+      },
+      {
+        "pergunta": "Quem pintou a 'Mona Lisa'?",
+        "opcoes_resposta": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Michelangelo"],
+        "resposta_correta": "Leonardo da Vinci",
+        "resposta_usuario": "Leonardo da Vinci",
+        "acertou": true
+      },
+      {
+        "pergunta": "Quantos elementos químicos a tabela periódica possui?",
+        "opcoes_resposta": ["100", "118", "92", "120"],
+        "resposta_correta": "118",
+        "resposta_usuario": "92",
+        "acertou": false
+      },
+      {
+        "pergunta": "Qual é o maior planeta do sistema solar?",
+        "opcoes_resposta": ["Júpiter", "Vênus", "Saturno", "Marte"],
+        "resposta_correta": "Júpiter",
+        "resposta_usuario": "Júpiter",
+        "acertou": true
+      }
+    ]
+  }
+  
