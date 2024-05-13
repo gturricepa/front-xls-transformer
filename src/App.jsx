@@ -15,6 +15,7 @@ const handleUpload = ({target}) =>{
   if(file ==="xlsx" || file ==="xls"){
     setData(true)
     setFile(target.files[0])
+    setError()
   }
   else{
     setError('Select a valid file (.xls or .xlsx)')
