@@ -28,7 +28,7 @@ const handleUpload = ({target}) =>{
      
       const formData = new FormData();
       formData.append('xlsFile', file);
-      const result = await fetch("http://localhost:5000/getdata", {
+      const result = await fetch("https://xls-transformer.onrender.com/getdata", {
           method: "POST",
           body: formData,
         });
